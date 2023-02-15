@@ -906,10 +906,14 @@ section {
   background: #fff;
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
 }
-.dark-mode .services .icon-box {
+.dark-mode .services .icon-box  {
   background-color: #333;
   color: #f5f5f5;
 } 
+.dark-mode .services  .h4 {
+  background-color: #45505b;
+  color: #fff;
+}
 
 .services .icon-box .icon {
   margin: 0 auto;
@@ -1065,7 +1069,7 @@ section {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0 5px 0;
-  color: #111;
+  color: #45505b;
 }
 
 .testimonials .testimonial-item h4 {
