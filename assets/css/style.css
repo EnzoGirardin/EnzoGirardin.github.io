@@ -10,11 +10,12 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  background-color: #fff;
+  color: #333;
 }
 
 a {
-  color: #0563bb;
+  color: #00f;
   text-decoration: none;
 }
 
@@ -30,8 +31,15 @@ h4,
 h5,
 h6 {
   font-family: "Raleway", sans-serif;
+  color: #333;
 }
-
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
